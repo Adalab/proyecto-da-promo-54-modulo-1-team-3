@@ -1,6 +1,31 @@
 # Proyecto: Juegos clásicos en Phyton
 Fuimos contactadas por la empresa "Games3", que se dedica a la creación de juegos clásicos, y nos encomendó el desarrollo de dichos juegos en Python, con miras a desarrollar su negocio en la virtualidad.
 
+## Estructura del repositorio
+```
+proyecto-juegos/
+│
+├── README.md
+├── .gitignore
+│
+├── notebooks/
+│   ├── piedra_papel_tijera.ipynb
+│   ├── ahorcado.ipynb
+│   ├── preguntas_respuestas.ipynb
+│
+├── recursos/
+│   ├── inputs.txt
+│   └── ejemplos_de_juego.md
+│
+├── data/
+│   └── (si hubiera archivos de entrada: preguntas, palabras, etc.)
+│
+└── presentacion/
+    ├── slides_demo.pdf
+    └── notas_presentacion.md
+```
+
+
 ## Tecnología usada
 - Phyton 3
 - Librerías: random
