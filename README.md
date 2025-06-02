@@ -15,6 +15,8 @@ proyecto-juegos/
 │
 ├── recursos/
 │   ├── inputs.txt
+│   ├── capturas de pantalla
+│   ├── grabaciones de uso de juegos
 │   └── ejemplos_de_juego.md
 │
 └── presentacion/
