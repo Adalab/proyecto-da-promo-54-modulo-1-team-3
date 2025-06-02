@@ -1,4 +1,4 @@
-# Guion de presentacion
+# Guión de presentación
 
 ## 1. Portada - Luciana
 
@@ -6,7 +6,11 @@ Presentación de nuestra empresa (Games 3)
 
 ## 2. Quienes Somos - Luciana
 
-Presentación profesional del equipo. Roles: Scrum Master: Andreina, Scrum team: Esther, Luciana, Mar y Paola
+Presentación profesional del equipo. Roles: 
+
+- Scrum Master: Andreina
+
+- Scrum team: Esther, Luciana, Mar y Paola
 
 ---
 
@@ -68,6 +72,6 @@ En una indrustria sobrecargada de videojuegos complejos de jugar o comprender, e
 
 3.- Desarrollar el tic tac toe
 
-### Lo que nos hace únicos:
+### Lo que nos hace únicas:
 
 El resultado de este proyecto ofrece un producto familiar e intuitivo. Tendremos a abuelos jugando con nietos, uniendo generaciones en un ambiente divertido sin necesidad de profundos conocimientos técnicos para poder disfrutarlo.
