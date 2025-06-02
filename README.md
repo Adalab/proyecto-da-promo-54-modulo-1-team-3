@@ -11,17 +11,15 @@ proyecto-juegos/
 ├── notebooks/
 │   ├── piedra_papel_tijera.ipynb
 │   ├── ahorcado.ipynb
-│   ├── preguntas_respuestas.ipynb
+│   └── preguntas_respuestas.ipynb
 │
 ├── recursos/
 │   ├── inputs.txt
 │   └── ejemplos_de_juego.md
 │
-├── data/
-│   └── (si hubiera archivos de entrada: preguntas, palabras, etc.)
-│
 └── presentacion/
     ├── slides_demo.pdf
+    ├── capturas de pantalla
     └── notas_presentacion.md
 ```
 
