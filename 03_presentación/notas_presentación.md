@@ -50,7 +50,7 @@ En una indrustria sobrecargada de videojuegos complejos de jugar o comprender, e
 
 ---
 
-## Demo - Paola
+## 5. Demo - Paola
 
 (Se explica un poco el codigo de cada uno de los juegos en el video)
 
@@ -62,7 +62,7 @@ En una indrustria sobrecargada de videojuegos complejos de jugar o comprender, e
 
 ---
 
-## Next steps y conclusiones - Mar
+## 6. Next steps y conclusiones - Mar
 
 ### Next steps:
 
