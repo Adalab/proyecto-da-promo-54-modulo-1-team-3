@@ -44,12 +44,12 @@ proyecto-juegos/
 Finalizado, con posibilidad de generar nuevos features
 
 ## Capturas de pantalla
-![alt text](<Captura de pantalla 2025-06-01 a la(s) 11.41.37 p. m..png>)
+![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.51.33 p. m..png>)
 
-![alt text](<Captura de pantalla 2025-06-01 a la(s) 11.41.54 p. m..png>)
+![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.41.54 p. m..png>)
 
-![alt text](<Captura de pantalla 2025-06-01 a la(s) 11.50.49 p. m..png>)
+![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.41.37 p. m..png>)
 
-![alt text](<Captura de pantalla 2025-06-01 a la(s) 11.51.24 p. m..png>)
+![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.50.49 p. m..png>)
 
-![alt text](<Captura de pantalla 2025-06-01 a la(s) 11.51.33 p. m..png>)
+![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.51.24 p. m..png>)
