@@ -21,6 +21,7 @@ proyecto-juegos/
 │
 └── presentacion/
     ├── slides_demo.pdf
+    ├── presentación en pdf
     └── notas_presentacion.md
 ```
 
