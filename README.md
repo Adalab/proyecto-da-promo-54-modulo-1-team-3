@@ -1,5 +1,5 @@
 # Proyecto: Juegos clásicos en Phyton
-Fuimos contactadas por la empresa "Games3", que se dedica a la creación de juegos clásicos, y nos encomendó el desarrollo de dichos juegos en Python, con miras a desarrollar su negocio en la virtualidad.
+Somos "Games3", y fuimos contactadas por una empresa que se dedica a la creación de juegos clásicos, y nos encomendó el desarrollo de dichos juegos en Python, con miras a desarrollar su negocio en la virtualidad.
 
 ## Estructura del repositorio
 ```
